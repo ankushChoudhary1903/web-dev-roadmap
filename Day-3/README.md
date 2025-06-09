@@ -1,9 +1,12 @@
-Day 3:
+# Day 3:
 - Part 1:
-- Lists
-- Div
-- Span
-- Some Other Basic Tags
-- Sub and Super Script
-
+  - Lists
+  - Div
+  - Span
+  - Some Other Basic Tags
+  - Sub and Super Script
 - Part 2:
+  - Tables
+  - Forms
+  - Inputs, Buttons and Labels
+  - Placeholder and some other attributes
