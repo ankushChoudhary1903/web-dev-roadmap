@@ -1,0 +1,29 @@
+div {
+  height: 60px;
+  width: 200px;
+  background-color: pink;
+  border: 3px dashed palevioletred;
+  margin-top: 100px;
+  box-shadow: 5px 5px 8px gray;
+}
+div:nth-of-type(2n)  {
+  background-color: rgb(195, 234, 137);
+  border: 3px dashed green;
+}
+
+div:nth-of-type(3n)  {
+  background-color: sandybrown;
+  border: 3px dashed brown;
+}
+#one:hover{
+  transform: rotate(90deg);
+  transition-duration: 1s;
+}
+#two:hover{
+  transition-duration: 1s;
+  transform:scale(0.5);
+}
+#three:hover{
+  transition-duration: 1s;
+  transform: translate(100px) skew(30deg);
+}
